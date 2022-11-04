@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #151515;
+
+}
+/*
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Manrope', sans-serif;
+
+*/
+header{
+    height: 85vh;
+    background: #000000;
+}
+.heading{
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: 400;
+    color:#FF5E19;
+    font-size: 74px;
+    line-height: 94.41px;
+}
+header p{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+}
+/*============== HEADER STYLE END =============*/
+
+.card{
+    border-radius: 0;
+    border: 1px solid #41464b;
+}
+.card-body{
+    background: #0d0d0d;
+}
+.card button{
+    background-color: #A2A9AF;
+    border:0;
+   
+}
+.inputs{
+    width: 171px;
+    margin-left: 20px
+}
+.cal-btn{
+    padding: 10px 85px;
+}
+.cal-btn2{
+    padding: 10px 77px;
+}
+/*===================== CARD STYLE ===================*/
+
+
+
+
+
+
+
